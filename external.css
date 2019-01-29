@@ -1,0 +1,25 @@
+body{
+   background: #efbf8f;
+}
+
+.first{
+    color: #ed5638;
+    font-size: 30px;
+}
+.second{
+    color: black;
+    font-size: 30px;
+}
+.third{
+    color: green;
+
+}
+span{
+    text-decoration: underline;
+}
+h2{
+    font-display: block;
+    color: red;
+    font-size: 30px;
+
+}
